@@ -1,0 +1,56 @@
+body{
+    background-color: beige;
+}
+.heading{
+    padding:2%;
+    margin-right: 8%;
+    margin-left: 8%;
+    background-color:rgb(135, 202, 201);
+    text-align: center;
+    border-radius: 24px;
+    
+}
+.ulla {
+    display: inline-block;
+    margin: 5px;
+    padding: 14px;
+    border-radius: 14px;
+}
+.ulla:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.photo{
+    padding: 2%;
+    margin-left:8%;
+    margin-right: 8%;
+}
+.web{
+    padding: 14px;
+    margin: 5px;
+    border-radius: 14px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    flex-direction: column;
+}
+.web:hover{
+    background-color:white;
+    color: black;
+}
+.section{
+    margin-right: 8%;
+    margin-left: 8%;
+    border-radius: 14px;
+    background-color: rgb(135, 202, 201);
+}
+.mail{
+    display: inline-block;
+}
+footer{
+    background-color: rgb(216, 224, 176);
+    padding: 2%;
+    margin-left:8% ;
+    margin-right: 8%;
+    border-radius: 24px;
+}

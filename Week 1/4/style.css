@@ -1,0 +1,11 @@
+.frame{
+    width: 900px;
+    height: 500px;
+    border-radius: 25px;
+    border-color: black;
+}
+.pathivu{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 8%;
+}
